@@ -1,6 +1,6 @@
 ## 构建基于云技术的文件存储与分享平台
 
-体验地址：[[webpan.nightsky.one](https://webpan.nightsky.one)](https://webpan.nightsky.one)
+体验地址：[https://webpan.nightsky.one](https://webpan.nightsky.one)
 
 #### docker-compose 一键部署
 ```bash
